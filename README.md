@@ -1,4 +1,4 @@
-# BYPASS-FAISY
+# BYPASS-JUTT
 
 # BY TEAM KRS
 
@@ -7,10 +7,10 @@
 
 # COMMAND
 
-git clone https://github.com/TEAM-KRS/BYPASS-FAISY.git
+git clone https://github.com/TEAM-KRS/BYPASS-JUTT.git
 
-cd BYPASS-FAISY
+cd BYPASS-JUTT
 
 ls
 
-python faisy.py
+python jutt.py
